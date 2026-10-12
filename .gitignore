@@ -1,0 +1,13 @@
+node_modules/
+.env
+*.log
+__pycache__/
+*.pyc
+# локальные данные/выгрузки
+data/
+*.json
+!package.json
+*.csv
+*.xlsx
+*cookie*
+*session*
